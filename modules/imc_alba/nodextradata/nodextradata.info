@@ -1,0 +1,13 @@
+name = Node extra data
+description = Useful additional fields that can be enabled per- node-type
+package = Indymedia
+version = "6.x-1.1"
+core = 6.x
+project = "imc_alba"
+
+; Information added by drupal.org packaging script on 2008-10-29
+version = "6.x-1.4"
+core = "6.x"
+project = "imc_alba"
+datestamp = "1225317624"
+

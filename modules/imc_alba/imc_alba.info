@@ -1,0 +1,13 @@
+name = Indymedia Alba Core
+description = "Core components of the Indymedia Alba distribution"
+package = Indymedia
+version = "6.x-1.4"
+core = 6.x
+project = "imc_alba"
+
+; Information added by drupal.org packaging script on 2008-10-29
+version = "6.x-1.4"
+core = "6.x"
+project = "imc_alba"
+datestamp = "1225317624"
+
